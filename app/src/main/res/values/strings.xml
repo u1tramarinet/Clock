@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_alarm">Alarm</string>
+    <string name="title_clock">Clock</string>
+    <string name="title_timer">Timer</string>
+    <string name="title_stop_watch">Stopwatch</string>
+    <string name="title_screen_saver">Screensaver</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_send_feedback">Send feedback</string>
+    <string name="title_help">Help</string>
+</resources>
